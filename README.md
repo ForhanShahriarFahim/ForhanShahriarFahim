@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forhanshahriarfahim&label=Profile%20views&color=0e75b6&style=flat" alt="forhanshahriarfahim" /> </p>
 
-- 🌱 I’m currently learning **Programming, Flutter**
+- 🌱 I’m currently learning **Competitive programming, Flutter**
 
 - 📫 How to reach me **dfahim432@gmail.com**
 
